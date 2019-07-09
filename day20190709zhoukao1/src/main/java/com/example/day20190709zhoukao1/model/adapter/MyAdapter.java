@@ -45,7 +45,7 @@ public class MyAdapter extends BaseAdapter {
            holder = new viewHolder();
            holder.iv = convertview.findViewById(R.id.iv);
            holder.tv_desc = convertview.findViewById(R.id.tv_desc);
-
+            convertview.setTag(holder);
         }
         return convertview;
     }

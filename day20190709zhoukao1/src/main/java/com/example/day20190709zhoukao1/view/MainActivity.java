@@ -4,7 +4,6 @@ import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
-
 import com.example.day20190709zhoukao1.R;
 import com.example.day20190709zhoukao1.model.bean.Bean;
 import com.example.day20190709zhoukao1.model.http;
